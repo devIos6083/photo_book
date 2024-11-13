@@ -39,7 +39,7 @@
 
 |전체 구현 화면|
 |:----:|
-|<img src="https://github.com/user-attachments/assets/b83295b4-e754-4fca-9648-7f89f3dae1c4" width="300">|
+|<img src="https://github.com/user-attachments/assets/db7881c1-49ef-4dba-9a85-e150c92a4b11" width="250">|
 
 -------------
 
